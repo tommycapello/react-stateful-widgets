@@ -18,15 +18,15 @@ This project includes a `src/components` folder containing several React compone
 
 ### Task 1: Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Clone your OWN fork of the repository using your terminal.
-- [ ] CD into the project base directory.
-- [ ] Download project dependencies by running `npm install`.
-- [ ] Start up the app using `npm start`.
-- [ ] Optionally run tests using `npm test`. (The app must be running on `http://localhost:1234`)
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: `git push origin <firstName-lastName>`.
+- [done] Create a forked copy of this project.
+- [done] Clone your OWN fork of the repository using your terminal.
+- [done] CD into the project base directory.
+- [done] Download project dependencies by running `npm install`.
+- [done] Start up the app using `npm start`.
+- [done] Optionally run tests using `npm test`. (The app must be running on `http://localhost:1234`)
+- [done] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [done] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [done] Push commits: `git push origin <firstName-lastName>`.
 
 ### Task 2a: Minimum Viable Product
 
@@ -59,7 +59,7 @@ Build another component inside this project with a game of Tic Tac Toe. The posi
   1. Does the latest move by the human player mean **the game is over**? (Game over, then!)
   2. Is the game **immediately winnable by the computer** by making a certain move? (Make that move!)
   3. Can the computer **block the human from winning on their next move** by making certain move? (Prevent defeat!)
-  
+
 The move by the computer should probably be random if the previous checks turn out negative, but you'll be surprised at how smart the "game engine" will feel.
 
 ## Submission Format
